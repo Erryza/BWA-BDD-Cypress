@@ -1,0 +1,6 @@
+{
+  "email": "user@react.test",
+  "password": "password",
+  "email_invalid": "wrong@react.test",
+  "password_invalid": "wrong"
+}
